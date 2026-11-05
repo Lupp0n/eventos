@@ -1,0 +1,2 @@
+//descendo
+y += velocidade;
